@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dimitri Basseguy</h1>
-<h3 align="center">«Il n’y a que deux sortes de langages de programmation : Ceux dont les gens disent toujours du mal et ceux que personne n’utilise.» - Bjarne Stroustrup. Open to work with PHP, JS, Symfony, HTML, CSS.</h3>
+<h3 align="center">«Il n’y a que deux sortes de langages de programmation : Ceux dont les gens disent toujours du mal et ceux que personne n’utilise.» - Bjarne Stroustrup. 
+</br></br>+ + + Open to work with PHP, JS, Symfony, HTML, CSS. + + +</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimitri-basseguy" alt="dimitri-basseguy" /> </p>
 

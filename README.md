@@ -1,3 +1,5 @@
+<img src="https://thumbs.gfycat.com/ElementaryTinyAmericansaddlebred-size_restricted.gif" alt="retro wave gif" width="900" height="500"/>
+
 <h1 align="center">Hi 👋, I'm Dimitri Basseguy</h1>
 <h3 align="center">«Il n’y a que deux sortes de langages de programmation : Ceux dont les gens disent toujours du mal et ceux que personne n’utilise.» - Bjarne Stroustrup. <br><br>Open to work with PHP, JS, Symfony.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dimitri-basseguy" alt="dimitri-basseguy" /> </p>

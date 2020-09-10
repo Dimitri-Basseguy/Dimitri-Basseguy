@@ -23,7 +23,7 @@
 </p>
 
 
-<h2 align="center"><a href="https://www.malt.fr/profile/dimitribasseguy">Let's work together...</a></h2>
+<h3 align="center"><a href="https://www.malt.fr/profile/dimitribasseguy">Let's work together...</a></h3>
 <p align="center">How do you take your coffee?<br>
-<img src="https://thumbs.gfycat.com/RelievedNecessaryHusky-size_restricted.gif" alt="robot" width="100" height="100"/></p>
+<img src="https://i.pinimg.com/originals/98/31/49/983149ad86716e2ae167f49c4faa0d0e.gif" alt="robot" width="100" height="100"/></p>
 

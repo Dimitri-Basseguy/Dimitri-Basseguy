@@ -21,3 +21,9 @@
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dimitri-basseguy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/dimitri-basseguy/" height="30" width="30" /></a>
 </p>
+
+
+<h2 align="center"><a href="https://www.malt.fr/profile/dimitribasseguy">Let's work together...</a></h2>
+<p align="center">How do you take your coffee?<br>
+<img src="https://thumbs.gfycat.com/RelievedNecessaryHusky-size_restricted.gif" alt="robot" width="100" height="100"/></p>
+

@@ -4,7 +4,7 @@
 <h3 align="center">«Il n’y a que deux sortes de langages de programmation : Ceux dont les gens disent toujours du mal et ceux que personne n’utilise.» - Bjarne Stroustrup. <br><br>Open to work with PHP, JS, Symfony.</h3>
 <p align="center"> <img src="https://thumbs.gfycat.com/BlaringAdeptAyeaye-small.gif" alt="robot" width="50" height="50"/><br><img src="https://komarev.com/ghpvc/?username=dimitri-basseguy" alt="dimitri-basseguy" /></p>
 <br>
-<a href="https://dimitri-basseguy.github.io"><img align="right" alt="GIF" src="https://github.com/Dimitri-Basseguy/Dimitri-Basseguy.github.io/blob/master/assets/img/dimitri-basseguy.github.io-screenshot.jpeg?raw=true" width="500" height="320" /></a><br><br>
+<a href="https://dimitri-basseguy.github.io"><img align="right" alt="GIF" src="https://github.com/Dimitri-Basseguy/portfolio-v2/raw/master/src/img/twitter-capture.png?raw=true" /></a><br><br>
 
 - 🌱 I’m currently learning **React**
 
@@ -12,7 +12,7 @@
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/></p>
 <br><br><br>
-<p align="center"><a href="https://dimitri-basseguy.github.io">Check my Github page !</a></p>
+<p align="center"><a href="https://www.dimitri-basseguy.fr">Check my portfolio !</a></p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitri-basseguy&layout=compact&hide=html&theme=radical" alt="dimitri-basseguy" />
 <br><br>

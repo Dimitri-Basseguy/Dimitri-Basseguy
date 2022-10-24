@@ -5,8 +5,7 @@
 <p align="center"> <img src="https://thumbs.gfycat.com/BlaringAdeptAyeaye-small.gif" alt="robot" width="50" height="50"/><br><img src="https://komarev.com/ghpvc/?username=dimitri-basseguy" alt="dimitri-basseguy" /></p>
 
 - 🌱 I’m currently learning **Wordpress**
-
-
+- 🔭 I’m currently working at Ras interim (https://www.ras-interim.fr)
 - 📫 How to reach me **dimitri.basseguy@gmail.com**
 <br>
 <a href="https://www.dimitri-basseguy.fr"><img align="right" alt="GIF" src="https://github.com/Dimitri-Basseguy/portfolio-v2/raw/master/src/img/twitter-capture.png?raw=true" /></a>

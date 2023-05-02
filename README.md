@@ -8,9 +8,7 @@
 - 🔭 I’m currently working at Ras interim (https://www.ras-interim.fr)
 - 📫 How to reach me **dimitri.basseguy@gmail.com**
 <br>
-<a href="https://www.dimitri-basseguy.fr"><img align="right" alt="GIF" src="https://github.com/Dimitri-Basseguy/portfolio-v2/raw/master/src/img/twitter-capture.png?raw=true" /></a>
 
-<p align="center"><a href="https://www.dimitri-basseguy.fr">Check my portfolio !</a></p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitri-basseguy&layout=compact&hide=html&theme=radical" alt="dimitri-basseguy" />
 <br><br>
